@@ -34,5 +34,7 @@
 
 ## 📚 **Atualmente Aprendendo**
 -APIs REST
+
 | JPA / Hibernate 
+
 | Banco de dados (MySQL)
