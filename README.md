@@ -33,8 +33,8 @@
 ---
 
 ## 📚 **Atualmente Aprendendo**
--APIs REST
+- APIs REST
 
-| JPA / Hibernate 
+- JPA / Hibernate 
 
-| Banco de dados (MySQL)
+- Banco de dados (MySQL)
