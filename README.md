@@ -14,6 +14,9 @@
   <a href="https://instagram.com/viniciussfarias_">
     <img src="https://img.shields.io/badge/Instagram-@VINICIUSSFARIAS_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/dayvsonbarros">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+  </a>
 </p>
 
 ---
