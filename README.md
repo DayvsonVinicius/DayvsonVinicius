@@ -1,6 +1,7 @@
 # Olá 👋,  eu sou Dayvson Barros
 
 🎓 **Estudante de Ciências da Computação (3º Período)**
+
 💻 **Focado em desenvolvimento Backend com Java e Spring Boot**
 
 ---
